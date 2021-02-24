@@ -4,7 +4,7 @@ tagline: top page
 email: your-email@domain.com
 description: >
   研究室ホームページ作って見るテスト
-baseurl: "/lab-website"
+#baseurl: "/lab-website"
 remote_theme: chrisrhymes/bulma-clean-theme
 url: "https://www.csrhymes.com"
 permalink: pretty

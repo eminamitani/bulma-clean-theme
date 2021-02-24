@@ -7,9 +7,8 @@ show_sidebar: true
 ---
 
 # Members
-
+(メールアドレスの_at_は`@`に変更してください)  
 ### 准教授
-(メールアドレスの_at_は`@`に変更してください)
 南谷英美 \
 email:`eminamitani_at_ims.ac.jp`
 ### 助教

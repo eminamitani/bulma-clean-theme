@@ -5,7 +5,9 @@ email: your-email@domain.com
 description: >
   研究室ホームページ作って見るテスト
 #baseurl: "/lab-website"
-remote_theme: chrisrhymes/bulma-clean-theme@0.7.2
+#not sure 0.7.2 is necessary or not
+#remote_theme: chrisrhymes/bulma-clean-theme@0.7.2
+remote_theme: chrisrhymes/bulma-clean-theme
 url: "https://www.csrhymes.com"
 permalink: pretty
 #locale: ja_JP

@@ -4,11 +4,11 @@ tagline: top page
 email: your-email@domain.com
 description: >
   研究室ホームページ作って見るテスト
-baseurl: "/bulma-clean-theme"
+baseurl: "/lab-website"
 remote_theme: chrisrhymes/bulma-clean-theme
 url: "https://www.csrhymes.com"
 permalink: pretty
-locale: ja_JP
+#locale: ja_JP
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
@@ -32,6 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
+  - github-pages
 
 exclude: 
   - Gemfile

@@ -21,7 +21,7 @@ email:`kuniyukimiwa_at_ims.ac.jp`
 [WebSite](https://sites.google.com/site/kmiwahome/)
 ### 秘書
 赤羽厚子  
-email:`alaba_at_ims.ac.jp`
+email:`akaba_at_ims.ac.jp`
 
 
 

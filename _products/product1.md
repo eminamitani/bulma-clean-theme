@@ -1,11 +1,11 @@
 ---
 title: フォノン・電子フォノン相互作用の精密計算
 subtitle: 最近力を入れているテーマです
-description: This is a product description
+description: 
 #product_code: ABC124
 layout: product
-image: "https://github.com/eminamitani/website-under-construction/blob/master/img/e-ph.png?raw=true"
-price: Since 2013~
+image: "https://github.com/eminamitani/website-under-construction/blob/master/images/e-ph.png?raw=true"
+price: Since 2012~
 #features:
 #    - label: Great addition to any home
 #      icon: fa-location-arrow
@@ -16,8 +16,27 @@ price: Since 2013~
 #rating: 3
 ---
 
-This is the content about the product.
+## 非弾性トンネル分光の理論
+フォノンは2012年ぐらいからあれこれ計算しています。
+当時、近藤効果とかスピン以外のテーマをなにかしたいなと考えていたら、
+周りに「フォノンが面白い」と熱く語る人が結構いたので、試しにやってみるかとはじめました。
+その頃、理研の走査トンネル顕微鏡の実験グループに在籍していました。
+走査トンネル顕微鏡で電子を表面にトンネルさせると、たまに電子のエネルギーがフォノンに散逸して（スピン励起に使われることもある）、その非弾性過程が電流電圧特性に反映されます。
+非弾性トンネル過程はシグナルが弱いので、すごく大変な測定のようです。
+分子の振動については、機構とかがはっきりしていたのですが、他の表面とか界面に同じような測定を行ったときに、見えるフォノンモードと見えないモードがあったり、そもそも表面フォノンとかがこういった測定で引っかかるのかは、当時あまり真面目に議論されてなかったみたいので、
+試しに考えてみました。STMのトンネル電流は、非平衡グリーン関数法で計算するテクニックが確立していたので、表面系のセットアップに適応して、電子フォノン相互作用も摂動項にいれて、
+あれこれ式変形すると、（Gamma点での）Eliashberg関数とほとんど同じ形の項がdI/dV（電流の一次微分）として出てくることがわかりました。実際、実験結果がある金属表面で電子フォノン相互作用をDFT計算して対応する量を求めてみたら実験で出てきたピークとよく合ったり、ドイツのWulfhekelグループも似たような時期に似たような結論を出していたので、まぁ合ってるんだろうと思ってます。
+そのあと、SiCの上に形成されたグラフェンでの非弾性トンネル分光の理論計算を、もうちょっとテクニカルな方法で数値計算したりもしています。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent mauris lacus, semper vel massa mattis, ullamcorper auctor libero. Maecenas sit amet ultricies erat. Curabitur eleifend est eget sagittis convallis. Mauris sit amet placerat lacus. Pellentesque vehicula quis massa ac lacinia. Vivamus gravida bibendum tincidunt. Sed eget augue vitae ligula ultricies lacinia a eget augue. Donec vulputate metus ut ante scelerisque sollicitudin. Nullam commodo suscipit venenatis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut tristique pharetra mollis. 
+[金属表面の話](https://doi.org/10.1103/PhysRevB.93.085411)  
+[graphene/SiC](https://doi.org/10.1103/PhysRevB.96.155431)
 
-Praesent ut accumsan mauris. Maecenas tempus finibus lectus, in iaculis mauris lobortis ac. Proin ipsum erat, imperdiet at arcu a, egestas hendrerit turpis. Suspendisse in lectus lacinia, sollicitudin felis non, auctor urna. Ut lacinia, ligula a cursus fringilla, diam arcu semper orci, quis sagittis eros quam nec ante.
+## 電子フォノン相互作用の精密計算
+あれこれやっていく中で電子フォノン相互作用の計算のノウハウを増やすことができたので、
+それ方面を伸ばすようにしました。電子フォノン相互作用の計算はとても計算コストがえげつなく、Fermi面での積分値（だいたいこういうのが要る）などを計算しようとすると、普通にやったら１年かかる…みたいなことが起きます。それを回避する方法として、[Guistinoら](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.015003)が開発しているWannier関数と組み合わせる方法があります。
+ちょうど、grapheneやsiliceneやらの共同研究で層状物質に馴染みがあったので、
+層状物質をターゲットにゴリゴリと電子フォノン相互作用の精密計算をすることにしました。
+電子フォノン相互作用といえばやっぱり超伝導が一番夢のある話な気もしたので、
+意外に超伝導になったり、なにか転移温度をコントロールできるような層状物質とかがないかなぁという方向の仕事をしていました。東大自体に指導した、島田くんとマノーくんなどめちゃめちゃ出来る学生さん達のおかげもあって、絶縁体のh-BNもうまくドープすると超伝導になったり、ドープした二硫化モリブデンの転移温度が歪に敏感だということが分かったりしました。  
+[h-BNの話](https://doi.org/10.7567/APEX.10.093101)  
+[MoS2の話](https://doi.org/10.1039/D0NA00420K)

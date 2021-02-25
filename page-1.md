@@ -1,17 +1,26 @@
 ---
-title: Page With Sidebar
-subtitle: A demo page with a sidebar
+title: 学振PDでの受け入れに興味がある方へ
+subtitle: 事務手続きなどのメモを書いておきます
 layout: page
-show_sidebar: true
+show_sidebar: false
 ---
 
-This is a demo page showing the sidebar.
+分子科学研究所は日本学術振興会 特別研究員(PD)募集要項が定める受入研究機関 (大学及び大学共同利用機関)なので、
+学振PDでの受け入れが可能です。
+受入研究者としてはPIの南谷と助教の下出さんが可能です。
+PIが受入先となったほうがスムーズかもしれないので、具体的にどうするかは適宜ご相談ください。研究内容は割と異なるのですが、広い意味での凝縮系物理であることは共通していますし、
+研究室内では協力して研究を進めていますので、どちらの研究内容に近い方でも喜んで受け入れします。また、情報科学や数理科学の分野を専攻されていた方で、計算材料学にその技術を応用したい方も大歓迎です。
 
-To show the sidebar set show_sidebar to true in the page's frontmatter.
+具体的な研究内容の相談や研究室見学などお気軽に`eminamitani@ims.ac.jp` までご連絡ください。
 
-```yml
-title: Page With Sidebar
-subtitle: A demo page with a sidebar
-layout: page
-show_sidebar: true
-```
+
+### 2021年度のスケジュール
+
+---
+1. 2021/05/07正午までに電子申請システム利用登録申込を行う
+
+1. 2021/05/20までに電子申請を行う
+
+1. 2021/05/27までに受け入れ研究者が評価書を提出する
+
+

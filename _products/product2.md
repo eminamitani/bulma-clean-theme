@@ -3,7 +3,7 @@ title: 表面ナノ構造の磁性
 subtitle: 磁性に関係するテーマもやっています
 #product_code: ABC123
 layout: product
-image: https://via.placeholder.com/640x480
+image: https://github.com/eminamitani/website-under-construction/blob/master/images/mol.png?raw=true
 price: Since 2007~
 #features:
 #    - label: Great addition to any home

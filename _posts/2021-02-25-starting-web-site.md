@@ -3,6 +3,7 @@ layout: post
 title: Webサイト作り出しました
 summary: |-
     　Webサイト構築手順のまとめ
+author: Emi Minamitani
 ---
 研究室が立ち上がって早2年弱、Webサイト作成を放置していたのですが、
 ようやく作ってみることにしました。

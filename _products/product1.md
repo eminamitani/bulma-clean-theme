@@ -1,19 +1,19 @@
 ---
-title: Product 1 Name
-subtitle: Product 1 tagline here
+title: フォノン・電子フォノン相互作用の精密計算
+subtitle: 最近力を入れているテーマです
 description: This is a product description
-product_code: ABC124
+#product_code: ABC124
 layout: product
 image: https://via.placeholder.com/640x480
-price: £1.99 + VAT
-features:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
-rating: 3
+price: Since 2013~
+#features:
+#    - label: Great addition to any home
+#      icon: fa-location-arrow
+#    - label: Comes in a range of styles
+#      icon: fa-grin-stars
+#    - label: Available in multiple sizes
+#      icon: fa-fighter-jet
+#rating: 3
 ---
 
 This is the content about the product.

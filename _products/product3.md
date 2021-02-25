@@ -3,7 +3,7 @@ title: その他
 subtitle: 最近興味をもって進めていること
 #product_code: ABC125
 layout: product
-image: https://via.placeholder.com/640x480
+image: https://github.com/eminamitani/website-under-construction/blob/master/images/nnp.png?raw=true
 #price: £2.99 + VAT
 #features:
 #    - label: Great addition to any home

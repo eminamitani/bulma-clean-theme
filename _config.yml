@@ -4,7 +4,7 @@ tagline: top page
 email: your-email@domain.com
 description: >
   分子科学研究所　南谷グループ　Webサイト（工事中）
-baseurl: ""
+baseurl: 
 #not sure 0.7.2 is necessary or not
 #remote_theme: chrisrhymes/bulma-clean-theme@0.7.2
 remote_theme: chrisrhymes/bulma-clean-theme

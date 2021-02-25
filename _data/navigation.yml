@@ -7,7 +7,7 @@
 - name: News
   link: /#
   dropdown:
-    - name: 学振PDへの応募に興味がある方へ
+    - name: 学振(R)PDへの応募に興味がある方へ
       link: /page-1/
 - name: Blog
   link: /blog/

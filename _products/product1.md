@@ -4,7 +4,7 @@ subtitle: 最近力を入れているテーマです
 description: This is a product description
 #product_code: ABC124
 layout: product
-image: /img/e-ph.png
+image: https://github.com/eminamitani/website-under-construction/blob/master/img/e-ph.png
 price: Since 2013~
 #features:
 #    - label: Great addition to any home

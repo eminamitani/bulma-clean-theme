@@ -4,7 +4,7 @@ tagline: top page
 email: your-email@domain.com
 description: >
   分子科学研究所　南谷グループ　Webサイト（工事中）
-#baseurl: "/lab-website"
+baseurl: "/website-under-construction"
 #not sure 0.7.2 is necessary or not
 #remote_theme: chrisrhymes/bulma-clean-theme@0.7.2
 remote_theme: chrisrhymes/bulma-clean-theme
@@ -25,7 +25,7 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
+  shortname: eminamitani
 
 
 plugins:

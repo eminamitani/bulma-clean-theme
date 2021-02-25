@@ -6,4 +6,9 @@ show_sidebar: false
 #sort: 
 ---
 
-This is an example products page you can use to display a simple listing of your products and their ratings and reviews.
+研究室のメンバーが携わっているテーマは様々です。広い分野では凝縮系物理に分類されます。
+PIの南谷以外のメンバーが行っている詳しい研究テーマについては、それぞれのWebページにも
+説明があるので参考にしてください。
+
+南谷自身は、計算機を使うことが好きなので、数値計算ベースで物性を理解しようとする仕事が多いです。最近は第一原理計算を使うことが多いですが、元々、博士課程のころはモデルハミルトニアンを使った近藤効果の研究などをしていたので、
+多体効果の分野もカバーしています。

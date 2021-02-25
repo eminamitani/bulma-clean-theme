@@ -1,11 +1,13 @@
+- name: Researches
+  link: /products/
+- name: Activities
+  link: /activities/
+- name: Link
+  link: /showcase/
 - name: News
   link: /#
   dropdown:
     - name: 学振PDへの応募に興味がある方へ
       link: /page-1/
-- name: Researches
-  link: /products/
-- name: Link
-  link: /showcase/
 - name: Blog
   link: /blog/

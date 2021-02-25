@@ -3,7 +3,7 @@ title: Top
 tagline: top page
 email: your-email@domain.com
 description: >
-  研究室ホームページ作って見るテスト
+  分子科学研究所　南谷グループ　Webサイト（工事中）
 #baseurl: "/lab-website"
 #not sure 0.7.2 is necessary or not
 #remote_theme: chrisrhymes/bulma-clean-theme@0.7.2
@@ -66,9 +66,9 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "C.S. Rhymes"
+      author: "Emi Minamitani"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image: 
       show_sidebar: true
 
 markdown: kramdown

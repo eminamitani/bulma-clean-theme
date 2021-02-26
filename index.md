@@ -1,6 +1,6 @@
 ---
 title: 分子科学研究所　南谷グループ
-subtitle: (工事中)
+subtitle: (暫定版)
 layout: page
 #callouts: home_callouts
 show_sidebar: true
@@ -25,7 +25,7 @@ email:`akaba_at_ims.ac.jp`
 
 
 
-## Contact
+## Address
 〒444-8585	愛知県岡崎市明大寺町字西郷中３８番地
 
 ## お知らせ

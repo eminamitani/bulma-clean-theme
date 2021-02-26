@@ -1,3 +1,9 @@
+# Website for IMS-Minamitani Group
+The jekyll theme is forked from  [original](https://github.com/chrisrhymes/bulma-clean-theme).
+We thank the author!
+The following is original `README` of the theme.
+
+
 # bulma-clean-theme
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)

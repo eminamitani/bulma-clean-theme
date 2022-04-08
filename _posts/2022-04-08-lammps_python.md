@@ -49,7 +49,7 @@ intel のicpcとかを使う＆最小限の構成は入れておく場合の設�
 cmake -C ../cmake/presets/intel.cmake -C ../cmake/presets/basic.cmake  -D CMAKE_INSTALL_PREFIX=$VIRTUAL_ENV -D PKG_MOLECULE=on -D WITH_PNG=yes -D WITH_JPEG=yes  -D BUILD_SHARED_LIBS=on -D PKG_MPI=on -D LAMMPS_EXCEPTIONS=on -D PKG_PYTHON=on -D PKG_MANYBODY=on -D PKG_MPIIO=on -D PKG_PHONON=on  ../cmake
 ```
 
-このときに、pythonとしてが指定した環境のものを認識しているかを確認すること。コンソールの出力にコンパイラとかの情報と一緒にどのpythonを参照しているかのメッセージも含まれている。
+このときに、pythonとして指定した環境のものを認識しているかを確認すること。コンソールの出力にコンパイラとかの情報と一緒にどのpythonを参照しているかのメッセージも含まれている。
 
 ```
 cmake --build .

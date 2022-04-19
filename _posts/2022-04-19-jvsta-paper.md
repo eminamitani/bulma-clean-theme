@@ -18,6 +18,6 @@ author: Emi Minamitani
 
 あと、Allen-Feldman理論というテクニックをつかったらDFT計算ベースで何とかアモルファスの熱伝導率だせるんじゃね、という脳筋な思いつきを実行した論文でもあります。そのために[コード開発](https://github.com/eminamitani/thermal_conductivity_code)もしたので、興味がある人が居たらどうぞ。
 
-アモルファスカーボンの中の環状構造の特徴と熱伝導率の関係がそこそこ解析できたので、当初の予想よりうまく行ったなというのが個人的な感想です。
+アモルファスカーボンの中の環状構造の特徴と熱伝導率の関係がそこそこ解析できたので、当初の予想よりうまく行ったなというのが個人的な感想です。あとレフェリーコメントの"I really like this piece of work. I have long thought about doing this myself, and I am glad to see that these authors have. "にすごく勇気づけられました。自分も「ええやん」って論文を査読したときはこれぐらいencouragingなコメント書こうと思いました。
 
 今回の論文は実は第２弾として書いていたもので、第一弾はまだ紆余曲折あって査読段階です[(Arxiv)](https://arxiv.org/abs/2107.05865)。こちらのターゲットはアモルファスSiで、使っているのは古典MDですが、環状構造と熱伝導率の関係の逆解析はこちらのほうが丁寧にあれこれ試しているので、これも早く何とかなるといいなぁ。

@@ -1,6 +1,6 @@
 ---
 title: 分子科学研究所　南谷グループ
-subtitle: (暫定版)
+subtitle: 
 layout: page
 #callouts: home_callouts
 show_sidebar: true
@@ -20,7 +20,8 @@ email:`shitade_at_ims.ac.jp`
 赤羽厚子  
 email:`akaba_at_ims.ac.jp`
 
-
+# 過去のメンバー
+[三輪邦之](https://sites.google.com/site/kmiwahome)　（特任助教）: 分子科学研究所　石崎グループ助教に栄転
 
 ## Address
 〒444-8585	愛知県岡崎市明大寺町字西郷中３８番地

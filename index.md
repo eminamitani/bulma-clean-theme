@@ -6,6 +6,10 @@ layout: page
 show_sidebar: true
 ---
 
+# News
+大阪大学産業科学研究所に異動しました。新しい連絡先は
+email `eminamitani_at_sanken.osaka-u.ac.jp`です。
+
 # Members
 (メールアドレスの_at_は`@`に変更してください)  
 ### 准教授

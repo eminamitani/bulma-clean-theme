@@ -18,7 +18,7 @@ email:  `eminamitani_at_sanken.osaka-u.ac.jp`
 ## Address
 〒567-0047	大阪府茨木市美穂ケ丘８−１
 
-# 分子研での旧グループ情報
+# 分子研での情報
 ### 教授（兼任：２０２３年３月まで)
 南谷英美   
 email:`eminamitani_at_ims.ac.jp`

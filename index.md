@@ -1,5 +1,5 @@
 ---
-title: 分子科学研究所　南谷グループ
+title: 南谷グループ
 subtitle: 
 layout: page
 #callouts: home_callouts
@@ -7,7 +7,8 @@ show_sidebar: true
 ---
 
 # 大阪大学産業科学研究所　ナノ機能予測研究分野
-南谷は2022年９月に大阪大学産業科学研究所へ異動しました。
+南谷は2022年９月に分子科学研究所から大阪大学産業科学研究所へ異動しました。
+
 # Members
 (メールアドレスの_at_は`@`に変更してください)  
 ### 教授
@@ -30,6 +31,7 @@ email:`shitade_at_ims.ac.jp`
 
 # 過去のメンバー
 [三輪邦之](https://sites.google.com/site/kmiwahome)　（特任助教）: 分子科学研究所　石崎グループ助教に栄転 
+
 赤羽厚子 （秘書）:2022年8月末まで 
 
 ## Address

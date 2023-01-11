@@ -27,12 +27,10 @@ email:`eminamitani_at_ims.ac.jp`
 email:`shitade_at_ims.ac.jp`  
 [WebSite](https://sites.google.com/view/shitade/)
 
-### 秘書
-赤羽厚子  
-email:`akaba_at_ims.ac.jp`
 
 # 過去のメンバー
-[三輪邦之](https://sites.google.com/site/kmiwahome)　（特任助教）: 分子科学研究所　石崎グループ助教に栄転
+[三輪邦之](https://sites.google.com/site/kmiwahome)　（特任助教）: 分子科学研究所　石崎グループ助教に栄転 
+赤羽厚子 （秘書）:2022年8月末まで 
 
 ## Address
 〒444-8585	愛知県岡崎市明大寺町字西郷中３８番地

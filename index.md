@@ -6,15 +6,22 @@ layout: page
 show_sidebar: true
 ---
 
-# News
-大阪大学産業科学研究所に異動しました。新しい連絡先は
-email `eminamitani_at_sanken.osaka-u.ac.jp`です。
-
+# 大阪大学産業科学研究所　ナノ機能予測研究分野
+南谷は2022年９月に大阪大学産業科学研究所へ異動しました。
 # Members
 (メールアドレスの_at_は`@`に変更してください)  
-### 准教授
+### 教授
+南谷英美 
+email:  `eminamitani_at_sanken.osaka-u.ac.jp`
+
+## Address
+〒567-0047	大阪府茨木市美穂ケ丘８−１
+
+# 分子研での旧グループ情報
+### 元准教授、９月から教授（兼任）
 南谷英美   
 email:`eminamitani_at_ims.ac.jp`
+
 ### 助教
 下出敦夫   
 email:`shitade_at_ims.ac.jp`  

@@ -36,6 +36,7 @@ plugins:
   - jekyll-seo-tag
   - kramdown-parser-gfm
   - github-pages
+  - jekyll-pdf-embed
 
 exclude: 
   - Gemfile

@@ -33,4 +33,8 @@ email:`shitade_at_sanken.osaka-u.ac.jp`
 ## お知らせ
 学振PDでの受入可能です！詳細→[学振(R)PDでの受入に興味がある方へ](/page-1.md/)
 
+研究内容紹介のPDFをアップロードしました
+
+ {% pdf "/images/research.pdf" %}
+
 

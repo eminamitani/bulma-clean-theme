@@ -35,6 +35,6 @@ email:`shitade_at_sanken.osaka-u.ac.jp`
 
 研究内容紹介のPDFをアップロードしました
 
-<iframe src="https://drive.google.com/file/d/1E_MzeO-cYBbZVyba6gxs_xNOy7t-W45O/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1E_MzeO-cYBbZVyba6gxs_xNOy7t-W45O/preview" width="800" height="640" allow="autoplay"></iframe>
 
 

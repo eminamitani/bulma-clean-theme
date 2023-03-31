@@ -19,9 +19,15 @@ show_sidebar: false
 ## 講演
 ### 招待講演
 
+#### 2023
+1. The 26th SANKEN International Symposium　“Relationship between structural characteristics and thermal conductivity in covalent amorphous solids” Emi Minamitani, Jan. 12, 2023
+
 #### 2022
 1. 南谷英美「発熱と熱輸送の第一原理計算」
 日本表面真空学会2022年度関東支部講演大会、2022年4月15日、オンライン開催
+
+1. 14th International Symposium on Atomic Level　Characterizations for New Materials and Devices '22　“Topological descriptor of thermal conductivity in covalent amorphous solids”, Emi Minamitani, Sep. 17, 2022
+
 
 #### 2021
 1. Emi Minamitani, “Atomic scale simulation of thermal transport and heat generation in semiconducting materials”, Pacifichem 2021, Dec. 15-20, 2021, Online
@@ -82,6 +88,18 @@ The 17th Japan-Korea Symposium on Molecular Science,
 
 
 ### その他、セミナーや一般講演など
+
+#### 2023
+1. DxMTワークショップ～機械学習ポテンシャル最前線～/〜Leading edge of Machine Learning Potential〜
+ 'Persistent homology-based descriptor for machine-learning potential' 東京大学本郷キャンパス、2023年3月29日
+
+#### 2022
+1. 東京大学物性研究所 MP-CoMS「マテリアルズ・インフォマティクスの基礎と応用」オンライン講義　2022年9月
+1. 「ポスト「富岳」世代の計算物質科学の展望」勉強会 ～プログラム高度化最前線と今後の課題共有～
+2022年9月16日
+1. TDA-MI Workshop 2022 パーシステントホモロジーと機械学習によるアモルファス物性予測, 岡山大学, 2022年12月9日
+1. THE 22ND INTERNATIONAL VACUUM CONGRESS IVC-22, 'Relationship between local coordinates and thermal conductivity in covalent amorphous solids', Sep. 2022, Sapporo
+
 
 #### 2021
 1. 南谷 英美「電子フォノン相互作用の精密計算とその応用」, 計算科学研究センター・ナノテクノロジープラットフォーム事業合同ワークショップ
